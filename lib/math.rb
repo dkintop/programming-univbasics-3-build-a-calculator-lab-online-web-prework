@@ -21,5 +21,5 @@ end
 def square_root(num)
 
 y= sqrt(num)
-return y
+puts y
 end
