@@ -20,6 +20,4 @@ end
 
 def square_root(num)
 
-y= sqrt(num)
-puts y
 end
